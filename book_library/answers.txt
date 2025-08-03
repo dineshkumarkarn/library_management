@@ -1,0 +1,18 @@
+Q: hello
+A: hello, how are you?
+
+Q: hii
+A: hii, how are you
+
+Q: how are you
+A: i'm fine , hopefully you are also feeling good.
+
+Q: what are you doing
+A: i'm here to help you. so i'm helping you
+
+Q: what are you doing?
+A: answering your questions.
+
+Q: how are you?
+A: good, as you are.
+
